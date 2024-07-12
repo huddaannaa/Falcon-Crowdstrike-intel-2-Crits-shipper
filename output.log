@@ -1,0 +1,1245 @@
+2019-10-11 11:14:29,515 INFO  
+2019-10-11 11:14:29,515 INFO  
+2019-10-11 11:14:29,515 INFO  ====================================
+2019-10-11 11:14:29,515 INFO  
+2019-10-11 11:14:29,515 INFO  
+2019-10-11 11:14:29,515 INFO [] Validating Parameters ...
+2019-10-11 11:14:32,236 INFO [] Connection to CS API Server completed ...
+2019-10-11 11:14:32,236 INFO [] Initiating transaction ...
+2019-10-11 11:14:32,236 INFO  
+2019-10-11 11:14:32,244 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,244 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,244 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,244 INFO 
+2019-10-11 11:14:32,250 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,259 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,259 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,259 INFO 
+2019-10-11 11:14:32,266 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,266 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,266 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,266 INFO 
+2019-10-11 11:14:32,272 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,272 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,272 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,272 INFO 
+2019-10-11 11:14:32,278 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,278 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,278 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,278 INFO 
+2019-10-11 11:14:32,283 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,283 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,283 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,283 INFO 
+2019-10-11 11:14:32,289 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,289 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,289 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,289 INFO 
+2019-10-11 11:14:32,295 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,295 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,295 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,295 INFO 
+2019-10-11 11:14:32,299 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,299 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,299 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,299 INFO 
+2019-10-11 11:14:32,305 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,305 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,305 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,305 INFO 
+2019-10-11 11:14:32,309 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,309 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,309 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,309 INFO 
+2019-10-11 11:14:32,315 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,315 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,315 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,315 INFO 
+2019-10-11 11:14:32,319 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,321 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,321 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,321 INFO 
+2019-10-11 11:14:32,325 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,326 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,326 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,326 INFO 
+2019-10-11 11:14:32,331 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,331 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,331 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,331 INFO 
+2019-10-11 11:14:32,335 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,335 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,335 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,335 INFO 
+2019-10-11 11:14:32,342 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,342 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,342 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,342 INFO 
+2019-10-11 11:14:32,345 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,345 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,345 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,346 INFO 
+2019-10-11 11:14:32,351 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,351 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,351 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,351 INFO 
+2019-10-11 11:14:32,357 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,357 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,357 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,357 INFO 
+2019-10-11 11:14:32,361 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,361 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,362 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,362 INFO 
+2019-10-11 11:14:32,368 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,368 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,368 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,368 INFO 
+2019-10-11 11:14:32,375 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,375 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,375 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,375 INFO 
+2019-10-11 11:14:32,380 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,381 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,381 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,381 INFO 
+2019-10-11 11:14:32,387 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,387 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,387 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,387 INFO 
+2019-10-11 11:14:32,392 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,392 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,392 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,392 INFO 
+2019-10-11 11:14:32,398 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,398 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,398 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,398 INFO 
+2019-10-11 11:14:32,404 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,404 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,404 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,404 INFO 
+2019-10-11 11:14:32,410 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,410 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,410 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,411 INFO 
+2019-10-11 11:14:32,415 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,415 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,415 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,415 INFO 
+2019-10-11 11:14:32,420 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,420 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,420 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,421 INFO 
+2019-10-11 11:14:32,424 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,424 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,424 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,424 INFO 
+2019-10-11 11:14:32,431 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,431 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,431 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,431 INFO 
+2019-10-11 11:14:32,436 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,436 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,437 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,437 INFO 
+2019-10-11 11:14:32,443 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,443 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,443 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,443 INFO 
+2019-10-11 11:14:32,448 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,448 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,448 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,448 INFO 
+2019-10-11 11:14:32,453 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,453 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,453 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,454 INFO 
+2019-10-11 11:14:32,460 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,460 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,460 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,460 INFO 
+2019-10-11 11:14:32,463 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,463 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,463 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,463 INFO 
+2019-10-11 11:14:32,469 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,469 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,469 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,469 INFO 
+2019-10-11 11:14:32,474 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,474 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,474 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,474 INFO 
+2019-10-11 11:14:32,480 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,480 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,480 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,480 INFO 
+2019-10-11 11:14:32,486 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,486 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,486 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,486 INFO 
+2019-10-11 11:14:32,492 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,492 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,492 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,492 INFO 
+2019-10-11 11:14:32,499 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,499 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,499 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,499 INFO 
+2019-10-11 11:14:32,503 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,503 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,503 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,503 INFO 
+2019-10-11 11:14:32,509 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,509 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,509 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,509 INFO 
+2019-10-11 11:14:32,513 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,513 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,513 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,513 INFO 
+2019-10-11 11:14:32,519 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,519 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,519 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,519 INFO 
+2019-10-11 11:14:32,525 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,525 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,525 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,525 INFO 
+2019-10-11 11:14:32,529 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,529 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,529 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,529 INFO 
+2019-10-11 11:14:32,535 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,536 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,536 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,536 INFO 
+2019-10-11 11:14:32,539 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,539 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,540 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,540 INFO 
+2019-10-11 11:14:32,545 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,546 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,546 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,546 INFO 
+2019-10-11 11:14:32,552 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,552 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,552 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,552 INFO 
+2019-10-11 11:14:32,555 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,555 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,556 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,556 INFO 
+2019-10-11 11:14:32,561 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,561 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,561 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,562 INFO 
+2019-10-11 11:14:32,566 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,566 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,566 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,566 INFO 
+2019-10-11 11:14:32,572 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,572 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,572 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,572 INFO 
+2019-10-11 11:14:32,576 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,576 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,576 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,576 INFO 
+2019-10-11 11:14:32,582 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,582 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,582 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,582 INFO 
+2019-10-11 11:14:32,588 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,588 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,588 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,588 INFO 
+2019-10-11 11:14:32,595 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,595 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,595 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,595 INFO 
+2019-10-11 11:14:32,601 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,601 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,601 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,601 INFO 
+2019-10-11 11:14:32,605 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,607 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,607 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,607 INFO 
+2019-10-11 11:14:32,612 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,612 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,612 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,612 INFO 
+2019-10-11 11:14:32,617 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,617 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,617 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,617 INFO 
+2019-10-11 11:14:32,621 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,621 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,621 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,621 INFO 
+2019-10-11 11:14:32,628 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,628 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,628 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,628 INFO 
+2019-10-11 11:14:32,631 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,631 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,631 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,632 INFO 
+2019-10-11 11:14:32,638 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,638 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,638 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,638 INFO 
+2019-10-11 11:14:32,645 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,645 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,645 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,645 INFO 
+2019-10-11 11:14:32,653 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,653 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,653 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,653 INFO 
+2019-10-11 11:14:32,657 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,657 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,658 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,658 INFO 
+2019-10-11 11:14:32,663 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,663 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,663 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,664 INFO 
+2019-10-11 11:14:32,670 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,670 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,670 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,670 INFO 
+2019-10-11 11:14:32,676 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,676 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,676 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,676 INFO 
+2019-10-11 11:14:32,681 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,681 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,681 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,681 INFO 
+2019-10-11 11:14:32,687 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,687 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,687 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,687 INFO 
+2019-10-11 11:14:32,691 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,691 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,691 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,691 INFO 
+2019-10-11 11:14:32,697 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,698 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,698 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,698 INFO 
+2019-10-11 11:14:32,703 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,703 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,703 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,703 INFO 
+2019-10-11 11:14:32,707 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,707 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,707 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,707 INFO 
+2019-10-11 11:14:32,713 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,713 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,713 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,713 INFO 
+2019-10-11 11:14:32,717 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,717 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,717 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,717 INFO 
+2019-10-11 11:14:32,723 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,723 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,723 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,723 INFO 
+2019-10-11 11:14:32,729 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,729 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,729 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,729 INFO 
+2019-10-11 11:14:32,733 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,734 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,734 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,734 INFO 
+2019-10-11 11:14:32,739 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,740 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,740 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,740 INFO 
+2019-10-11 11:14:32,746 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,746 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,746 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,746 INFO 
+2019-10-11 11:14:32,750 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,750 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,750 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,750 INFO 
+2019-10-11 11:14:32,756 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,756 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,756 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,756 INFO 
+2019-10-11 11:14:32,762 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,762 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,762 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,762 INFO 
+2019-10-11 11:14:32,769 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,769 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,769 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,769 INFO 
+2019-10-11 11:14:32,776 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,776 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,776 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,776 INFO 
+2019-10-11 11:14:32,782 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,782 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,782 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,782 INFO 
+2019-10-11 11:14:32,786 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,786 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,786 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,786 INFO 
+2019-10-11 11:14:32,792 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,792 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,792 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,792 INFO 
+2019-10-11 11:14:32,796 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,796 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,798 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,798 INFO 
+2019-10-11 11:14:32,802 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 11:14:32,802 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 11:14:32,802 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 11:14:32,802 INFO 
+2019-10-11 11:14:32,802 INFO  
+2019-10-11 11:14:32,802 INFO [] Done !!!
+2019-10-11 11:14:32,802 INFO [] Exiting ...
+2019-10-11 11:14:32,802 INFO       !
+2019-10-11 11:14:32,802 INFO <> By Maguire Software Trading <>
+2019-10-11 11:14:32,802 INFO  
+2019-10-11 14:14:14,184 INFO  
+2019-10-11 14:14:14,186 INFO  
+2019-10-11 14:14:14,186 INFO  ====================================
+2019-10-11 14:14:14,186 INFO  
+2019-10-11 14:14:14,186 INFO  
+2019-10-11 14:14:14,186 INFO [] Validating Parameters ...
+2019-10-11 14:14:17,088 INFO [] Connection to CS API Server completed ...
+2019-10-11 14:14:17,088 INFO [] Initiating transaction ...
+2019-10-11 14:14:17,092 INFO  
+2019-10-11 14:14:17,109 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,109 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,109 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,109 INFO 
+2019-10-11 14:14:17,131 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,131 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,131 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,131 INFO 
+2019-10-11 14:14:17,150 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,150 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,150 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,150 INFO 
+2019-10-11 14:14:17,170 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,170 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,171 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,171 INFO 
+2019-10-11 14:14:17,187 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,187 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,187 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,187 INFO 
+2019-10-11 14:14:17,200 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,200 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,200 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,200 INFO 
+2019-10-11 14:14:17,219 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,219 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,219 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,219 INFO 
+2019-10-11 14:14:17,240 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,240 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,240 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,240 INFO 
+2019-10-11 14:14:17,257 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,257 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,257 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,257 INFO 
+2019-10-11 14:14:17,279 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,279 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,279 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,279 INFO 
+2019-10-11 14:14:17,299 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,299 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,299 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,299 INFO 
+2019-10-11 14:14:17,321 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,321 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,321 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,321 INFO 
+2019-10-11 14:14:17,342 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,342 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,342 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,342 INFO 
+2019-10-11 14:14:17,364 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,364 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,364 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,364 INFO 
+2019-10-11 14:14:17,378 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,378 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,378 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,378 INFO 
+2019-10-11 14:14:17,398 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,398 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,398 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,398 INFO 
+2019-10-11 14:14:17,420 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,420 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,420 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,420 INFO 
+2019-10-11 14:14:17,441 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,441 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,441 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,441 INFO 
+2019-10-11 14:14:17,463 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,463 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,463 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,463 INFO 
+2019-10-11 14:14:17,486 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,486 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,486 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,486 INFO 
+2019-10-11 14:14:17,509 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,509 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,509 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,509 INFO 
+2019-10-11 14:14:17,530 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,530 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,530 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,530 INFO 
+2019-10-11 14:14:17,546 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,546 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,546 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,546 INFO 
+2019-10-11 14:14:17,569 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,569 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,569 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,569 INFO 
+2019-10-11 14:14:17,592 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,592 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,592 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,592 INFO 
+2019-10-11 14:14:17,608 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,608 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,608 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,608 INFO 
+2019-10-11 14:14:17,631 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,631 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,631 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,631 INFO 
+2019-10-11 14:14:17,655 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,655 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,655 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,655 INFO 
+2019-10-11 14:14:17,676 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,677 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,677 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,677 INFO 
+2019-10-11 14:14:17,694 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,694 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,696 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,696 INFO 
+2019-10-11 14:14:17,713 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,713 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,713 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,713 INFO 
+2019-10-11 14:14:17,733 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,733 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,733 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,733 INFO 
+2019-10-11 14:14:17,749 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,750 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,750 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,750 INFO 
+2019-10-11 14:14:17,773 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,778 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,778 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,779 INFO 
+2019-10-11 14:14:17,799 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,801 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,801 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,801 INFO 
+2019-10-11 14:14:17,823 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,823 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,823 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,823 INFO 
+2019-10-11 14:14:17,845 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,845 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,845 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,845 INFO 
+2019-10-11 14:14:17,865 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,865 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,865 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,865 INFO 
+2019-10-11 14:14:17,888 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,888 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,888 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,888 INFO 
+2019-10-11 14:14:17,910 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,910 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,910 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,910 INFO 
+2019-10-11 14:14:17,930 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,931 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,931 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,931 INFO 
+2019-10-11 14:14:17,953 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,954 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,954 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,954 INFO 
+2019-10-11 14:14:17,974 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,974 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:17,976 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:17,976 INFO 
+2019-10-11 14:14:17,997 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:17,997 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,000 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,000 INFO 
+2019-10-11 14:14:18,016 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,017 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,017 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,017 INFO 
+2019-10-11 14:14:18,042 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,042 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,042 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,042 INFO 
+2019-10-11 14:14:18,065 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,066 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,066 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,066 INFO 
+2019-10-11 14:14:18,089 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,089 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,091 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,091 INFO 
+2019-10-11 14:14:18,109 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,111 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,111 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,111 INFO 
+2019-10-11 14:14:18,132 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,132 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,132 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,132 INFO 
+2019-10-11 14:14:18,157 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,157 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,157 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,157 INFO 
+2019-10-11 14:14:18,176 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,176 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,176 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,176 INFO 
+2019-10-11 14:14:18,196 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,196 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,196 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,196 INFO 
+2019-10-11 14:14:18,213 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,213 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,217 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,217 INFO 
+2019-10-11 14:14:18,236 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,236 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,236 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,236 INFO 
+2019-10-11 14:14:18,250 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,250 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,250 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,250 INFO 
+2019-10-11 14:14:18,270 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,270 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,270 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,270 INFO 
+2019-10-11 14:14:18,285 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,285 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,285 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,285 INFO 
+2019-10-11 14:14:18,301 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,301 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,301 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,301 INFO 
+2019-10-11 14:14:18,319 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,319 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,319 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,319 INFO 
+2019-10-11 14:14:18,335 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,335 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,335 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,335 INFO 
+2019-10-11 14:14:18,352 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,352 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,352 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,352 INFO 
+2019-10-11 14:14:18,374 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,374 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,374 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,374 INFO 
+2019-10-11 14:14:18,397 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,398 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,398 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,398 INFO 
+2019-10-11 14:14:18,414 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,415 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,415 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,415 INFO 
+2019-10-11 14:14:18,437 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,437 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,437 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,437 INFO 
+2019-10-11 14:14:18,460 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,460 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,460 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,460 INFO 
+2019-10-11 14:14:18,483 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,483 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,483 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,483 INFO 
+2019-10-11 14:14:18,506 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,506 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,506 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,506 INFO 
+2019-10-11 14:14:18,528 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,528 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,528 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,528 INFO 
+2019-10-11 14:14:18,546 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,546 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,546 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,546 INFO 
+2019-10-11 14:14:18,569 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,569 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,569 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,569 INFO 
+2019-10-11 14:14:18,591 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,591 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,592 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,592 INFO 
+2019-10-11 14:14:18,612 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,612 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,614 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,615 INFO 
+2019-10-11 14:14:18,634 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,634 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,634 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,634 INFO 
+2019-10-11 14:14:18,654 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,654 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,654 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,654 INFO 
+2019-10-11 14:14:18,677 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,677 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,677 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,678 INFO 
+2019-10-11 14:14:18,696 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,697 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,697 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,697 INFO 
+2019-10-11 14:14:18,717 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,717 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,717 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,717 INFO 
+2019-10-11 14:14:18,743 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,743 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,743 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,743 INFO 
+2019-10-11 14:14:18,763 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,763 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,763 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,763 INFO 
+2019-10-11 14:14:18,785 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,786 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,786 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,786 INFO 
+2019-10-11 14:14:18,809 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,809 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,809 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,809 INFO 
+2019-10-11 14:14:18,835 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,835 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,835 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,835 INFO 
+2019-10-11 14:14:18,858 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,859 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,859 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,859 INFO 
+2019-10-11 14:14:18,882 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,882 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,882 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,882 INFO 
+2019-10-11 14:14:18,905 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,905 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,905 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,905 INFO 
+2019-10-11 14:14:18,926 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,927 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,927 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,927 INFO 
+2019-10-11 14:14:18,944 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,944 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,944 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,944 INFO 
+2019-10-11 14:14:18,967 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,967 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,967 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,967 INFO 
+2019-10-11 14:14:18,993 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:18,994 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:18,994 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:18,994 INFO 
+2019-10-11 14:14:19,016 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,016 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,016 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,016 INFO 
+2019-10-11 14:14:19,039 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,039 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,039 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,039 INFO 
+2019-10-11 14:14:19,056 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,056 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,056 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,056 INFO 
+2019-10-11 14:14:19,076 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,078 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,078 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,078 INFO 
+2019-10-11 14:14:19,095 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,095 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,095 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,095 INFO 
+2019-10-11 14:14:19,121 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,121 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,121 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,121 INFO 
+2019-10-11 14:14:19,141 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,142 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,142 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,144 INFO 
+2019-10-11 14:14:19,167 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,167 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,168 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,168 INFO 
+2019-10-11 14:14:19,184 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-11 14:14:19,187 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-11 14:14:19,187 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-11 14:14:19,187 INFO 
+2019-10-11 14:14:19,188 INFO  
+2019-10-11 14:14:19,190 INFO [] Done !!!
+2019-10-11 14:14:19,190 INFO [] Exiting ...
+2019-10-11 14:14:19,190 INFO       !
+2019-10-11 14:14:19,190 INFO <> By Maguire Software Trading <>
+2019-10-11 14:14:19,190 INFO  
+2019-10-12 07:46:13,229 INFO  
+2019-10-12 07:46:13,230 INFO  
+2019-10-12 07:46:13,230 INFO  ====================================
+2019-10-12 07:46:13,230 INFO  
+2019-10-12 07:46:13,230 INFO  
+2019-10-12 07:46:13,230 INFO [] Validating Parameters ...
+2019-10-12 07:46:16,538 INFO [] Connection to CS API Server completed ...
+2019-10-12 07:46:16,538 INFO [] Initiating transaction ...
+2019-10-12 07:46:16,538 INFO  
+2019-10-12 07:46:16,546 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,546 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,546 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,548 INFO 
+2019-10-12 07:46:16,553 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,553 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,553 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,553 INFO 
+2019-10-12 07:46:16,561 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,561 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,561 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,561 INFO 
+2019-10-12 07:46:16,569 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,569 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,569 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,569 INFO 
+2019-10-12 07:46:16,575 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,575 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,575 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,575 INFO 
+2019-10-12 07:46:16,582 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,582 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,582 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,582 INFO 
+2019-10-12 07:46:16,588 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,588 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,588 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,588 INFO 
+2019-10-12 07:46:16,594 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,594 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,594 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,594 INFO 
+2019-10-12 07:46:16,599 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,599 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,599 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,599 INFO 
+2019-10-12 07:46:16,605 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,605 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,605 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,605 INFO 
+2019-10-12 07:46:16,611 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,612 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,612 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,612 INFO 
+2019-10-12 07:46:16,618 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,618 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,618 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,618 INFO 
+2019-10-12 07:46:16,625 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,625 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,625 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,625 INFO 
+2019-10-12 07:46:16,631 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,631 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,631 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,631 INFO 
+2019-10-12 07:46:16,640 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,640 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,640 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,640 INFO 
+2019-10-12 07:46:16,645 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,645 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,645 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,645 INFO 
+2019-10-12 07:46:16,651 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,651 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,651 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,651 INFO 
+2019-10-12 07:46:16,658 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,658 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,658 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,658 INFO 
+2019-10-12 07:46:16,665 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,665 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,665 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,665 INFO 
+2019-10-12 07:46:16,671 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,671 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,671 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,671 INFO 
+2019-10-12 07:46:16,677 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,677 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,677 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,677 INFO 
+2019-10-12 07:46:16,684 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,684 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,684 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,684 INFO 
+2019-10-12 07:46:16,691 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,691 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,691 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,691 INFO 
+2019-10-12 07:46:16,697 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,697 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,697 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,697 INFO 
+2019-10-12 07:46:16,704 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,704 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,704 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,704 INFO 
+2019-10-12 07:46:16,710 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,710 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,710 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,710 INFO 
+2019-10-12 07:46:16,717 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,717 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,717 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,717 INFO 
+2019-10-12 07:46:16,724 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,724 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,724 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,724 INFO 
+2019-10-12 07:46:16,732 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,732 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,732 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,732 INFO 
+2019-10-12 07:46:16,739 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,739 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,740 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,740 INFO 
+2019-10-12 07:46:16,744 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,744 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,746 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,746 INFO 
+2019-10-12 07:46:16,752 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,752 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,752 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,752 INFO 
+2019-10-12 07:46:16,759 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,759 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,759 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,759 INFO 
+2019-10-12 07:46:16,765 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,765 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,765 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,765 INFO 
+2019-10-12 07:46:16,772 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,772 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,772 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,772 INFO 
+2019-10-12 07:46:16,779 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,780 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,780 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,780 INFO 
+2019-10-12 07:46:16,788 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,788 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,788 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,788 INFO 
+2019-10-12 07:46:16,793 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,793 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,793 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,793 INFO 
+2019-10-12 07:46:16,799 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,799 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,799 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,799 INFO 
+2019-10-12 07:46:16,808 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,808 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,808 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,808 INFO 
+2019-10-12 07:46:16,813 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,813 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,813 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,813 INFO 
+2019-10-12 07:46:16,819 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,819 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,819 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,819 INFO 
+2019-10-12 07:46:16,826 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,826 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,826 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,826 INFO 
+2019-10-12 07:46:16,834 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,834 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,834 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,834 INFO 
+2019-10-12 07:46:16,839 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,839 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,839 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,839 INFO 
+2019-10-12 07:46:16,845 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,845 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,845 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,845 INFO 
+2019-10-12 07:46:16,852 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,852 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,852 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,852 INFO 
+2019-10-12 07:46:16,859 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,859 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,859 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,859 INFO 
+2019-10-12 07:46:16,865 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,865 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,865 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,865 INFO 
+2019-10-12 07:46:16,872 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,872 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,872 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,872 INFO 
+2019-10-12 07:46:16,880 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,880 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,880 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,880 INFO 
+2019-10-12 07:46:16,888 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,888 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,888 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,888 INFO 
+2019-10-12 07:46:16,894 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,894 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,895 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,895 INFO 
+2019-10-12 07:46:16,908 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,908 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,910 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,910 INFO 
+2019-10-12 07:46:16,915 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,915 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,915 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,915 INFO 
+2019-10-12 07:46:16,924 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,924 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,924 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,924 INFO 
+2019-10-12 07:46:16,930 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,930 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,930 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,930 INFO 
+2019-10-12 07:46:16,937 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,937 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,937 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,937 INFO 
+2019-10-12 07:46:16,944 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,944 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,944 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,944 INFO 
+2019-10-12 07:46:16,950 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,950 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,950 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,950 INFO 
+2019-10-12 07:46:16,959 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,959 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,959 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,959 INFO 
+2019-10-12 07:46:16,966 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,966 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,966 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,966 INFO 
+2019-10-12 07:46:16,977 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,979 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,979 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,979 INFO 
+2019-10-12 07:46:16,992 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,992 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,992 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,992 INFO 
+2019-10-12 07:46:16,999 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:16,999 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:16,999 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:16,999 INFO 
+2019-10-12 07:46:17,006 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,006 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,006 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,006 INFO 
+2019-10-12 07:46:17,012 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,012 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,012 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,012 INFO 
+2019-10-12 07:46:17,019 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,019 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,019 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,019 INFO 
+2019-10-12 07:46:17,025 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,025 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,025 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,025 INFO 
+2019-10-12 07:46:17,032 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,032 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,032 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,032 INFO 
+2019-10-12 07:46:17,039 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,039 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,039 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,039 INFO 
+2019-10-12 07:46:17,048 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,048 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,048 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,048 INFO 
+2019-10-12 07:46:17,053 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,053 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,055 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,055 INFO 
+2019-10-12 07:46:17,062 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,062 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,062 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,062 INFO 
+2019-10-12 07:46:17,069 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,069 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,069 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,069 INFO 
+2019-10-12 07:46:17,086 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,086 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,086 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,088 INFO 
+2019-10-12 07:46:17,096 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,096 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,096 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,096 INFO 
+2019-10-12 07:46:17,104 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,105 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,105 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,105 INFO 
+2019-10-12 07:46:17,114 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,114 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,114 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,114 INFO 
+2019-10-12 07:46:17,122 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,122 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,124 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,124 INFO 
+2019-10-12 07:46:17,131 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,131 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,131 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,131 INFO 
+2019-10-12 07:46:17,138 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,140 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,140 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,140 INFO 
+2019-10-12 07:46:17,148 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,148 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,148 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,148 INFO 
+2019-10-12 07:46:17,155 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,155 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,155 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,157 INFO 
+2019-10-12 07:46:17,164 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,164 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,164 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,164 INFO 
+2019-10-12 07:46:17,171 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,171 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,171 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,171 INFO 
+2019-10-12 07:46:17,180 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,180 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,180 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,180 INFO 
+2019-10-12 07:46:17,187 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,187 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,187 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,187 INFO 
+2019-10-12 07:46:17,194 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,194 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,194 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,194 INFO 
+2019-10-12 07:46:17,201 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,201 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,201 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,201 INFO 
+2019-10-12 07:46:17,211 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,211 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,211 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,211 INFO 
+2019-10-12 07:46:17,220 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,220 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,220 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,220 INFO 
+2019-10-12 07:46:17,230 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,230 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,230 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,230 INFO 
+2019-10-12 07:46:17,236 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,236 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,236 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,236 INFO 
+2019-10-12 07:46:17,244 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,244 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,244 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,244 INFO 
+2019-10-12 07:46:17,253 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,253 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,253 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,253 INFO 
+2019-10-12 07:46:17,259 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,259 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,259 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,259 INFO 
+2019-10-12 07:46:17,267 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,267 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,267 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,267 INFO 
+2019-10-12 07:46:17,276 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,276 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,276 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,276 INFO 
+2019-10-12 07:46:17,283 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-10-12 07:46:17,283 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-10-12 07:46:17,283 INFO [] | |  ACTOR Intel Available in CRITs ___/
+2019-10-12 07:46:17,283 INFO 
+2019-10-12 07:46:17,285 INFO  
+2019-10-12 07:46:17,285 INFO [] Done !!!
+2019-10-12 07:46:17,285 INFO [] Exiting ...
+2019-10-12 07:46:17,286 INFO       !
+2019-10-12 07:46:17,286 INFO <> By Maguire Software Trading <>
+2019-10-12 07:46:17,286 INFO  

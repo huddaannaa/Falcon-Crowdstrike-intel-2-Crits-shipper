@@ -1,0 +1,50 @@
+==========================================================================
+==========================================================================
+==========================================================================
+
+###
+program_log : 	outputs lines that represent the flow of every indicator 
+		into CRITS. it does not display the exact information it 
+		only display if and indicator is press of is newly pushed 
+		into CRIT's database
+
+sample output>>
+================
+This means the indicator did not exist and has been pushed:
+
+2019-09-15 18:43:04,930 INFO [] >>>> Pushing ACTOR Intel to CRITs
+2019-09-15 18:43:04,973 INFO [] >>>> Pushing DOMAIN Intel to CRITs
+2019-09-15 18:43:05,012 INFO [] >>>> Pushing INDICATOR Intel to CRITs
+
+
+This means indicator already exists:
+==========================================================================
+2019-09-14 08:31:58,398 INFO [] |  | INDICATOR Intel Available in CRITs |
+2019-09-14 08:31:58,398 INFO [] |  / DOMAIN Intel Available in CRITs    |
+2019-09-14 08:31:58,398 INFO [] | |  ACTOR Intel Available in CRITs ___/
+
+
+==========================================================================
+==========================================================================
+==========================================================================
+
+###
+Report.report: this shows the final results of intel transferr.
+
+sample output>>
+================
+INTELLIGENCE PUSH REPORT
+For CRITs Intel Updater
+on :Sat Sep 14 08:37:23 2019
+__________________
+
+[1] Total number of intelligence *GATHERED* from CrowdStrike  : 100
+[2] Total number of intelligence *ADDED* to CRITs             : 0
+[3] Total number of intelligence that *EXISTS* in CRITS       : 100
+__________________
+
+
+==========================================================================
+==========================================================================
+==========================================================================
+
